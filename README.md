@@ -1,7 +1,9 @@
 # SC5002 Lab Assignment — Search Algorithms & Regularised Regression
 
 **Course:** SC5002 Artificial Intelligence Fundamentals & Applications, Nanyang Technological University
+
 **Author:** YU XIYAO U2440309D
+
 **Semester:** AY2026/27 Semester 1
 
 This repository contains the practical component (Part 2) of the SC5002 lab assignment: a comparison of
